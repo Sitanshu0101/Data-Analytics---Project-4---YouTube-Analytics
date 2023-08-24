@@ -13,4 +13,10 @@ Explore the world of data-driven insights as we dive into the analytics journey 
 
 🚀 Join me in this journey of discovery and insights, where data paints a picture that guides our content strategy and enhances our connection with the audience. Your curiosity is the key to unlocking the potential of Zorro Oz on YouTube!
 
-Stay tuned for more updates as we continue to refine our content and strategies based on these valuable data-driven revelations. 🎉 #YouTubeAnalytics #DataDrivenDecisions #PowerBIInsights #AudienceEngagement
+Stay tuned for more updates as we continue to refine our content and strategies based on these valuable data-driven revelations. 🎉 
+
+Power BI report Pdf file - https://drive.google.com/file/d/1TdCHM5wg5Y6_KoCqdf68c4-sprnw9dPi/view?usp=drive_link
+
+
+
+#YouTubeAnalytics #DataDrivenDecisions #PowerBIInsights #AudienceEngagement
